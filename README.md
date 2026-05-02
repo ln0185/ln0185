@@ -63,7 +63,7 @@ Training was **project-based**: design sprints (about a week) followed by **two 
 
 ## Links 
 
-- **Portfolio (this repo):** [https://helened-portfolio.vercel.app/](https://helened-portfolio.vercel.app/)
+- **Portfolio:** [https://helened-portfolio.vercel.app/](https://helened-portfolio.vercel.app/)
 - **GitHub:** [github.com/ln0185](https://github.com/ln0185)
 - **LinkedIn:** [linkedin.com/in/hélène-d-9bbb75329](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-d-9bbb75329/)
 
