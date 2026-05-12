@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hélène Delaunay — Front-end developer
+# Hélène Delaunay — QA, Front-end developer
 
 French front-end developer based in **Selfoss, Iceland**. I build interfaces with attention to **accessibility**, **consistency**, and how products feel across devices. My work is shaped by **design collaboration**, **user research**, and a **testing mindset** (Jest, Playwright).
 
