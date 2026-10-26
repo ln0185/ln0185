@@ -1,70 +1,55 @@
-## Hi there 👋
+# Hi there 👋
 
-# Hélène Delaunay — QA, Front-end developer
+## Hélène Delaunay — UX/UI Designer who codes and ships
 
-French front-end developer based in **Selfoss, Iceland**. I build interfaces with attention to **accessibility**, **consistency**, and how products feel across devices. My work is shaped by **design collaboration**, **user research**, and a **testing mindset** (Jest, Playwright).
+French UX/UI designer based in Selfoss, Iceland. I design product experiences — research, flows, interaction — and build them myself, so the reasoning never gets lost between design and delivery.
 
----
+### About
 
-## Summary
+To me, UX is what makes a product actually work: the reasoning that decides whether a feature should exist at all, not something layered on after. I treat design sprints as essential, since they force the real problem to the surface before anyone commits to a solution. I also build, which keeps the UX driving the product all the way to launch.
 
-- Strong **React / Next.js / TypeScript** stack; comfortable with **SASS**, **Tailwind**, animation (**Framer Motion**, **GSAP**), and **responsive** layouts.
-- **Design & discovery:** Figma, design sprints, UX/UI principles, WCAG-oriented thinking, tools like Stark.
-- **Quality:** unit and E2E tests, clear selectors and assertions; experience in **Agile / Scrum** and **Jira**.
-- **Data & integration:** TanStack Query, REST APIs, MongoDB, Prismic CMS; pragmatic full-stack touches where projects need it.
+### Skills
 
----
+**UX** — UX research · Information architecture (IA) · Design sprints · User flows & wireframes · Animated prototypes · Gameplay experience · Accessibility (Stark)
 
-## Experience
+**UI** — Figma · Design systems · Style guides · Visual hierarchy · Responsive design · Motion & feedback
 
-**Freelance developer** — Aug 2025 – present  
+**Code** — React / TypeScript · Next.js · Webflow · Godot · GSAP · Framer Motion · API integration · AI-assisted (Cursor, MCP) · Playwright / Jest · Git / GitHub · Accessibility (WCAG)
 
-- **Reykjavík Game Summit** — official event site (Next.js, TypeScript, React, GSAP).
-- **Nýr Tækniskolinn** — responsive **Webflow** site from concept to launch; client work on brand and UX.
-- **Vertonet** — site for a women-in-tech nonprofit: translation, chatbot, events via API (Next.js, TypeScript, MongoDB).
+### Experience
 
-**Developer intern, Aranja Studio** — Mar – Jul 2025  
+**UX + Front-end Designer — Vertonet** (2025)
+Ran a design sprint for the redesign of Vertonet's website, then pitched it to the board. Built the site in Next.js, React and TypeScript with Figma MCP, shipping full English/Icelandic translation, a chatbot and an events API.
 
-- Real-time **multiplayer party game** work in React / Next.js with custom state management and cross-device sync.
-- Close collaboration with **designers and CTO**; **Jest** unit tests and start of **Playwright** E2E coverage; code reviews and shared UX decisions.
+**UX Design Sprint Intern — Aranja** (3 months, 2025)
+Flipp 6-7, a live multiplayer party game keeping every player's device in sync. Owned the gameplay decisions and user flow, then built the game in React and TypeScript alongside the designer, mentored by the company's CPO.
 
----
+**UX Designer & Developer — Sagnir** (2024)
+SVEF-nominated platform exploring Icelandic folklore through stories, maps and interactive quizzes. Ten interviews and a design sprint led to a React, TypeScript and Next.js app with a Leaflet map and API integration.
 
-## Education
+**UX Designer & Developer — Huddle** (2024)
+App for parents to support each other through chats and events. Design sprint, animated prototype and app built in TypeScript.
 
-**Vefskólinn** — graduated with **9.11 / 10**.  
+**UI Designer & Developer — Reykjavík Game Summit** (2026)
+On the organising committee; designed and shipped the official event site for Game Makers Iceland. Owned the UI, built in Next.js with GSAP motion and a fully responsive design.
 
-Training was **project-based**: design sprints (about a week) followed by **two to three weeks** of build time, blending **UX/UI** and **programming** so design and code stay one flow. That environment is where my interest in **user research** deepened.
+**Web Designer & Developer — Nýr Tækniskóli** (2025)
+Designed and built the school's site from concept to launch, working directly with the client on the visual system and accessibility. Built in Webflow.
 
----
+### Education
 
-## Selected projects
+**Vefskólinn** — UX/UI design and programming, graduated 9.11 / 10. The only school in Iceland teaching UX/UI design and programming together from day one.
 
-| Project | Notes |
-|--------|--------|
-| **Flipp** (Aranja) | Live party game at party.games — real-time sync, Jest. |
-| **Nýr Tækniskolinn** | Webflow site — responsive, accessibility-aware, client collaboration. |
-| **Vertonet** | Nonprofit site — Next.js, MongoDB, API-driven events, chatbot. |
-| **Reykjavík Game Summit** | Event site for Game Makers Iceland — Next.js, GSAP, responsive. |
-| **Sagnir** | Icelandic folklore app — map, API, quiz; Agile/Scrum; **SVEF 2025 Best Student Project** nomination. |
-| **Vefskólinn LMS dashboard** | Student submissions and progress — Next.js, MongoDB. |
-| **Playwright E2E** | SauceDemo flows — login through checkout; structured tests. |
-| **Airwaves** / **Lost Soul Café** | **Godot** games (Game Jam, itch.io). |
+### Play
 
----
+Organising committee member for Game Makers Iceland and Reykjavík Game Summit. Makes games in Godot in her free time:
+- **Airwaves** — rhythm-adjacent jam game, 3rd place at the Game Makers Iceland Summer Game Jam
+- **Lost Soul Café** — cozy café management game with a folklore twist, Winter Game Jam
 
-## Recognition
+### Links
 
-- **3rd place** — Game Makers Iceland Game Jam (**Airwaves**).
-- **SVEF Best Student Project** nomination (2025) — **Sagnir**.
-- **Íslandsmót Iðn- og Verkgreina** — winner (as highlighted on the portfolio).
-
----
-
-## Links 
-
-- **Portfolio:** [https://helened-portfolio.vercel.app/](https://helened-portfolio.vercel.app/)
-- **GitHub:** [github.com/ln0185](https://github.com/ln0185)
-- **LinkedIn:** [linkedin.com/in/hélène-d-9bbb75329](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-d-9bbb75329/)
-
+Portfolio: https://portfolio-helened.vercel.app/
+LinkedIn: linkedin.com/in/hélène-d-9bbb75329
+GitHub: github.com/ln0185
+itch.io: itch.io/profile/helened
 
