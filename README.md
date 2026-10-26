@@ -48,8 +48,8 @@ Organising committee member for Game Makers Iceland and Reykjavík Game Summit. 
 
 ### Links
 
-Portfolio: https://portfolio-helened.vercel.app/
-LinkedIn: linkedin.com/in/hélène-d-9bbb75329
-GitHub: github.com/ln0185
-itch.io: itch.io/profile/helened
+- [Portfolio](https://portfolio-helened.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-d-9bbb75329/)
+- [GitHub](https://github.com/ln0185)
+- [itch.io](https://itch.io/profile/helened)
 
