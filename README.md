@@ -2,7 +2,7 @@
 
 ## Hélène Delaunay — UX/UI Designer who codes and ships
 
-French UX/UI designer based in Selfoss, Iceland. I design product experiences — research, flows, interaction — and build them myself, so the reasoning never gets lost between design and delivery.
+French UX/UI designer based in Iceland. I design product experiences — research, flows, interaction — and build them myself, so the reasoning never gets lost between design and delivery.
 
 ### About
 
@@ -21,8 +21,8 @@ To me, UX is what makes a product actually work: the reasoning that decides whet
 **UX + Front-end Designer — Vertonet** (2025)
 Ran a design sprint for the redesign of Vertonet's website, then pitched it to the board. Built the site in Next.js, React and TypeScript with Figma MCP, shipping full English/Icelandic translation, a chatbot and an events API.
 
-**UX Design Sprint Intern — Aranja** (3 months, 2025)
-Flipp 6-7, a live multiplayer party game keeping every player's device in sync. Owned the gameplay decisions and user flow, then built the game in React and TypeScript alongside the designer, mentored by the company's CPO.
+**Front-end Developer Intern — Aranja** (Apr – Jul 2025)
+Flipp 6-7, a live multiplayer party game keeping every player's device in sync. Owned the gameplay decisions and user flow (rules, pacing and the feedback that makes a room feel like it is playing together), then built the game in React and TypeScript alongside the designer, mentored by the company's CPO.
 
 **UX Designer & Developer — Sagnir** (2024)
 SVEF-nominated platform exploring Icelandic folklore through stories, maps and interactive quizzes. Ten interviews and a design sprint led to a React, TypeScript and Next.js app with a Leaflet map and API integration.
@@ -38,7 +38,7 @@ Designed and built the school's site from concept to launch, working directly wi
 
 ### Education
 
-**Vefskólinn** — UX/UI design and programming, graduated 9.11 / 10. The only school in Iceland teaching UX/UI design and programming together from day one.
+**Vefskólinn** — UX/UI design and programming, graduated 9.125 / 10. The only school in Iceland teaching UX/UI design and programming together from day one.
 
 ### Play
 
